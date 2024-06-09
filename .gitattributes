@@ -1,0 +1,2 @@
+*.rar filter=lfs diff=lfs merge=lfs -text
+Brain[[:space:]]Scans.rar filter=lfs diff=lfs merge=lfs -text
